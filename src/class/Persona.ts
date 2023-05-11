@@ -30,4 +30,4 @@ public dameEdad (): number {
 
 public actualizarEdad (edad: number): void {
     this.edad = edad
-}
+}}

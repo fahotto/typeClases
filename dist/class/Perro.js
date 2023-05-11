@@ -1,3 +1,3 @@
 "use strict";
-nombre;
-rAZA;
+// nombre
+// rAZA

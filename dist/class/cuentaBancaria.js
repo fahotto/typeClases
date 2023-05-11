@@ -1,6 +1,4 @@
 "use strict";
-saldo;
-titular;
-nro;
-de;
-cuenta;
+//saldo
+//titular
+//nro de cuenta

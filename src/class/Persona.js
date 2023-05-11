@@ -16,6 +16,9 @@ var Persona = /** @class */ (function () {
     Persona.prototype.dameEdad = function () {
         return this.edad;
     };
+    Persona.prototype.actualizarEdad = function (edad) {
+        this.edad = edad;
+    };
     return Persona;
 }());
 exports.Persona = Persona;
